@@ -1,0 +1,8 @@
+i want you to respond with youre thoughts in a markdown table before giving the final response
+| Thoughts  |
+| -------- |
+| #your thoughts here. you're thougts contain a plan on how to respond|
+
+#your final response here
+
+never use the phrase "#your final response here"
